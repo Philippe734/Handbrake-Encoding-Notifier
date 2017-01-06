@@ -11,7 +11,10 @@ Just put EncodingNotifier.exe in any folder. Then, go to options in HandBrake. W
 When HandBrake encoding is done, a notification and a popup appears. When you click on the small window, then the file just encoded will be open for playing.
 
 ## Download
-Windows 7, 8, 10 : here
+Windows 7, 8, 10 : [![alt text][2]][1]
+
+  [1]: https://github.com/Philippe734/Handbrake-Encoding-Notifier/raw/master/Windows/EncodingNotifier.zip
+  [2]: https://cloud.githubusercontent.com/assets/24923693/21724562/26754b04-d435-11e6-9654-779c17c2ebcf.png
 
 
 *Open source GNU/GPL - Copyright@2014 Philippe734, author of VPN Lifeguard.*
