@@ -2,6 +2,8 @@
 
 Encoding notifier is just a little program which popup a notifier when HandBrake encoding is done.
 
+![screenshot windows](https://cloud.githubusercontent.com/assets/24923693/21729319/eab11d3a-d44a-11e6-8aff-72b065aade78.jpeg)
+
 ## Install
 Just put EncodingNotifier.exe in any folder. Then, go to options in HandBrake. When done, check "send files to :" and select EncodingNotifier.exe
 
